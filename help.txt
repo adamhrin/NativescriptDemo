@@ -1,0 +1,3 @@
+SQLite: tns plugin add nativescript-sqlite
+Camera: tns plugin add nativescript-camera
+Image picker: tns plugin add nativescript-imagepicker
